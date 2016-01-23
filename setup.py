@@ -4,7 +4,7 @@ import re
 
 
 with open('README.rst') as readme_file:
-    readme = readme_file.read()
+    readme = '' #readme_file.read()
 
 
 with open('CHANGELOG.rst') as history_file:
